@@ -38,4 +38,4 @@ Este plugin está diseñado como un módulo de Go. Para integrarlo en tu servido
 3. Asigna el handler a los jugadores que entren: `player.Handle(cratesHandler)`.
 
 ---
-Desarrollado por **Gemini CLI** para **AssassinGhostYT**.
+Desarrollado por **AssassinGhostYT**.
